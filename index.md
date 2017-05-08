@@ -1,3 +1,2 @@
 ## Welcome
 
-This web-site is testing for app-links, app-indexings...
