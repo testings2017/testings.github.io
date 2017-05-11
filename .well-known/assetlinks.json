@@ -6,13 +6,4 @@
     "sha256_cert_fingerprints":
     ["CD:30:77:B7:4F:C5:78:3B:01:AC:65:B8:DD:F8:66:9C:9F:C7:77:D4:97:D6:DF:DB:09:92:69:F2:3B:20:1B:87"]
   }
-},
-{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.aihui.daily003",
-    "sha256_cert_fingerprints":
-    ["CD:30:77:B7:4F:C5:78:3B:01:AC:65:B8:DD:F8:66:9C:9F:C7:77:D4:97:D6:DF:DB:09:92:69:F2:3B:20:1B:87"]
-  }
 }]
