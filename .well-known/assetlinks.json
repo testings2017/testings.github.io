@@ -41,7 +41,7 @@
     "sha256_cert_fingerprints":
     ["71:57:F7:A9:63:B3:89:DE:AD:FE:50:67:C6:F2:97:94:F2:89:62:1F:4E:E2:62:40:F8:DB:2C:EF:7F:2A:1C:BF"]
   }
-}
+},
 {
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
