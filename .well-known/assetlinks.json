@@ -32,5 +32,14 @@
     "sha256_cert_fingerprints":
     ["4D:BE:FC:2C:28:3C:59:BE:CD:0E:12:F7:8A:AF:6D:4C:8E:A6:B2:E1:97:A1:E5:EF:D8:E6:22:E8:80:A0:77:75"]
   }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.google.android.instantapptest",
+    "sha256_cert_fingerprints":
+    ["71:57:F7:A9:63:B3:89:DE:AD:FE:50:67:C6:F2:97:94:F2:89:62:1F:4E:E2:62:40:F8:DB:2C:EF:7F:2A:1C:BF"]
+  }
 }
 ]
