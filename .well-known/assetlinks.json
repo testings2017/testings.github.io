@@ -1,39 +1,4 @@
-[
-{
-  "relation": ["delegate_permission/common.get_login_creds"],
-  "target": {
-    "namespace": "web",
-    "site": "https://testings2017.github.io"
-  }
-},
-{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.google.android.myapp2",
-    "sha256_cert_fingerprints":
-    ["71:57:F7:A9:63:B3:89:DE:AD:FE:50:67:C6:F2:97:94:F2:89:62:1F:4E:E2:62:40:F8:DB:2C:EF:7F:2A:1C:BC"]
-   }
-},
- {
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.google.android.applinktest",
-    "sha256_cert_fingerprints":
-    ["71:57:F7:A9:63:B3:89:DE:AD:FE:50:67:C6:F2:97:94:F2:89:62:1F:4E:E2:62:40:F8:DB:2C:EF:7F:2A:1C:BF"]
-  }
-},
-{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.google.android.instantapptest",
-    "sha256_cert_fingerprints":
-    ["71:57:F7:A9:63:B3:89:DE:AD:FE:50:67:C6:F2:97:94:F2:89:62:1F:4E:E2:62:40:F8:DB:2C:EF:7F:2A:1C:BF"]
-  }
-},
-{
+[{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
@@ -41,5 +6,4 @@
     "sha256_cert_fingerprints":
     ["CD:30:77:B7:4F:C5:78:3B:01:AC:65:B8:DD:F8:66:9C:9F:C7:77:D4:97:D6:DF:DB:09:92:69:F2:3B:20:1B:87"]
   }
-}
-]
+}]
