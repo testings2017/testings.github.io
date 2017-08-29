@@ -1,5 +1,14 @@
 [
 {
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.aihui.al20170829001",
+    "sha256_cert_fingerprints":
+    ["4D:BE:FC:2C:28:3C:59:BE:CD:0E:12:F7:8A:AF:6D:4C:8E:A6:B2:E1:97:A1:E5:EF:D8:E6:22:E8:80:A0:77:75"]
+  }
+},
+{
   "relation": ["delegate_permission/common.get_login_creds"],
   "target": {
     "namespace": "web",
@@ -65,15 +74,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.aihui.al20170824000",
-    "sha256_cert_fingerprints":
-    ["4D:BE:FC:2C:28:3C:59:BE:CD:0E:12:F7:8A:AF:6D:4C:8E:A6:B2:E1:97:A1:E5:EF:D8:E6:22:E8:80:A0:77:75"]
-  }
-},
-{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.aihui.al20170829001",
     "sha256_cert_fingerprints":
     ["4D:BE:FC:2C:28:3C:59:BE:CD:0E:12:F7:8A:AF:6D:4C:8E:A6:B2:E1:97:A1:E5:EF:D8:E6:22:E8:80:A0:77:75"]
   }
