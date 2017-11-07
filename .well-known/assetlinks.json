@@ -32,5 +32,14 @@
     "sha256_cert_fingerprints":
     ["71:57:F7:A9:63:B3:89:DE:AD:FE:50:67:C6:F2:97:94:F2:89:62:1F:4E:E2:62:40:F8:DB:2C:EF:7F:2A:1C:BF"]
   }
+},
+ {
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.aihuiliu.al20171107001",
+    "sha256_cert_fingerprints":
+    ["FD:FB:CA:2D:8B:D1:AE:4C:5E:81:00:20:6A:BE:B4:1E:1E:CA:73:21:10:CD:BE:6C:EF:90:6C:3F:1B:9E:F7:0D"]
+  }
 }
 ]
