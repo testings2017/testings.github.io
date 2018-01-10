@@ -37,7 +37,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.aihui.al20180109007",
+    "package_name": "com.aihui.al20180110002",
     "sha256_cert_fingerprints":
     ["C5:4E:4F:1A:05:47:B8:10:D2:CD:12:47:E3:AC:BB:39:67:D9:FB:D0:0F:33:B8:A9:7A:9C:A0:12:CE:5B:03:A0"]
   }
